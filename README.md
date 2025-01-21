@@ -19,7 +19,7 @@ Get Proxy
 pip install requests colorama
 ```
 ```bash
-python get.py
+python3 get.py
 ```
 Use
 ```bash
